@@ -1,4 +1,4 @@
-DEFAULT_START_PORT=33321                         #默认起始端口
+DEFAULT_START_PORT=33322                         #默认起始端口
 DEFAULT_SOCKS_USERNAME="admin"                   #默认socks账号
 DEFAULT_SOCKS_PASSWORD="YUL3ojLD"                #默认socks密码
 DEFAULT_WS_PATH="/ws"                            #默认ws路径
